@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Source\\Expt_3\\Expt_3.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\.vscode\\compileCommands_Expt_3\\Expt_3.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Source\\Expt_3\\Expt_3.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\.vscode\\compileCommands_Expt_3\\Expt_3.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Source\\Expt_3\\Expt_3.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\.vscode\\compileCommands_Expt_3\\Expt_3.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Source\\Expt_3\\Expt_3GameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\.vscode\\compileCommands_Expt_3\\Expt_3.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Source\\Expt_3\\Expt_3GameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\.vscode\\compileCommands_Expt_3\\Expt_3.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]

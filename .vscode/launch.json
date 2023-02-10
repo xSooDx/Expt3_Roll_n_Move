@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch Expt_3 (Debug)",
+			"request": "launch",
+			"program": "C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "Expt_3 Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Expt_3 (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "Expt_3 Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Expt_3 (Development)",
+			"request": "launch",
+			"program": "C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "Expt_3 Win64 Development Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Expt_3 (Test)",
+			"request": "launch",
+			"program": "C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "Expt_3 Win64 Test Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Expt_3 (Shipping)",
+			"request": "launch",
+			"program": "C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "Expt_3 Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Expt_3Editor (Debug)",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "Expt_3Editor Win64 Debug Build",
+			"args": [
+				"C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Expt_3.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Expt_3Editor (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "Expt_3Editor Win64 DebugGame Build",
+			"args": [
+				"C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Expt_3.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Expt_3Editor (Development)",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "Expt_3Editor Win64 Development Build",
+			"args": [
+				"C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Expt_3.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Users\\u1423247\\Documents\\Unreal Projects\\Expt_3\\Expt_3.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1"
+		}
+	]
+}
